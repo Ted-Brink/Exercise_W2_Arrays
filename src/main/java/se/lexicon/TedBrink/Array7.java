@@ -19,5 +19,5 @@ public class Array7 {
             if (j % 2 > 0)
                 System.out.print(j + " ");
 
-        }
     }
+}
